@@ -1,5 +1,7 @@
 from model import Book, Rental, Client
 
+# testes configurados e já rodados.
+
 def test_rent_regular_book_short_duration():
     book = Book("Refactoring", Book.REGULAR)
     r = Rental(book, 2)
