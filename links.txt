@@ -1,5 +1,15 @@
+parte 1 -
+
 commit 1: https://github.com/TevimF/library-refactoring/commit/f1d54e34f5b3c4ea8079082354f6e7782a3847b9
 commit 2: https://github.com/TevimF/library-refactoring/commit/bcd729d2baf57c7d862c44d355aa1a1d8b9a44c8
 commit 3: https://github.com/TevimF/library-refactoring/commit/2845e654758505a39f7e943dc0e9c81b12ba4068
 commit 4: https://github.com/TevimF/library-refactoring/commit/2cdcdf99f112a15cc3152589fa3625e9c8c4dc2e
 commit 5: https://github.com/TevimF/library-refactoring/commit/87bc1de78f731d1c9b99d4f225d11e881a6f3251
+
+parte 2 -
+
+commit 6: https://github.com/TevimF/library-refactoring/commit/24355e60e44108e289e1f4ce6eef580e4b6632dd
+commit 7: https://github.com/TevimF/library-refactoring/commit/dc6ac922145a8dadb939d3e5bd16fbcbee81258c
+commit 8: https://github.com/TevimF/library-refactoring/commit/157909d5733329e0b2e74bd91277b5e01df968f5
+commit 9: https://github.com/TevimF/library-refactoring/commit/cc5f190a394bf85ad44f84e07b05d5d0735621ef
+commit 10: https://github.com/TevimF/library-refactoring/commit/e89b3d92d562aa3696cf1ff5d88694f3abf3d905
